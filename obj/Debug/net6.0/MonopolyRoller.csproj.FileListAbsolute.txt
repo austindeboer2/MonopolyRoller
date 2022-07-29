@@ -1,0 +1,30 @@
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.exe
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.deps.json
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.runtimeconfig.json
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.dll
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.pdb
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.csproj.AssemblyReference.cache
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.AssemblyInfoInputs.cache
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.AssemblyInfo.cs
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.csproj.CoreCompileInputs.cache
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.dll
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\refint\MonopolyRoller.dll
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.pdb
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.genruntimeconfig.cache
+E:\GitHub Repos\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\ref\MonopolyRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.exe
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.deps.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.runtimeconfig.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\bin\Debug\net6.0\MonopolyRoller.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.AssemblyInfo.cs
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\refint\MonopolyRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\MonopolyRoller.genruntimeconfig.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\MonopolyRoller\MonopolyRoller\obj\Debug\net6.0\ref\MonopolyRoller.dll
